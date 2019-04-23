@@ -1,0 +1,1 @@
+!function(){app.controller("index",["$scope","$rootScope",function(o,n){n.patchName="index"}])}();

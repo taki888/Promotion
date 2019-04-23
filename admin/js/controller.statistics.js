@@ -1,0 +1,1 @@
+!function(){app.controller("statistics",["$scope","$rootScope",function(t,c){c.patchName="statistics"}])}();
